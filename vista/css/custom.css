@@ -1,0 +1,23 @@
+hr.divider.divider-start {
+  margin-left: 0;
+}
+
+.photo-placeholder {
+  min-height: 280px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: 2px dashed #f48fb1;
+  border-radius: 0.5rem;
+  background-color: #fff5f8;
+  color: #6c757d;
+  text-align: center;
+  padding: 2rem;
+}
+
+.photo-placeholder-light {
+  border-color: #fff;
+  background-color: rgba(255, 255, 255, 0.12);
+  color: #fff;
+}
